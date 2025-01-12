@@ -58,14 +58,6 @@ To run the project, you will need the following libraries:
 1. Prepare the dataset by downloading it from Kaggle and placing it in the `data` directory.
 2. Run the Jupyter notebooks or Python scripts provided in the repository to preprocess the data, perform EDA, and build the predictive model.
 
-## Repository Structure
-
-- `data/`: Contains the dataset.
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, and model building.
-- `scripts/`: Python scripts for various stages of the project.
-- `README.md`: Project overview and instructions.
-- `requirements.txt`: List of required Python packages.
-
 ## Results
 
 The model evaluation results and performance metrics will be documented in the analysis notebooks and reports.
